@@ -6,6 +6,7 @@ public class ExceptionGlavna {
 		
 		
 		System.out.println("Pozdrav!");
+		System.out.println("Sada cemo da radimo exceptione!");
 
 	}
 
