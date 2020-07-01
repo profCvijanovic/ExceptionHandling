@@ -5,7 +5,8 @@ public class ExceptionGlavna {
 	public static void main(String[] args) {
 		
 		
-		System.out.println("Ovo je promena na trecoj grani");
+		System.out.println("Ovo je promena na Urosevoj grani");
+		System.out.println("I Ovo je promena na Urosevoj grani");
 		
 		int broj1 = 10;
 		int broj2 = 0;
